@@ -20,4 +20,4 @@
   <a href="{{ route('monedas.index') }}">Volver al índice</a>
   <a href="{{ route('monedas.show', $moneda->idcurrency) }}">Recargar</a>
 
-  @stop
+  @stop 

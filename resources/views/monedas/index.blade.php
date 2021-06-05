@@ -34,7 +34,7 @@
       <th class="text-center">Descripción</th>
       <th class="text-center">Fecha</th>
       <th class="text-center">Acciones</th>
-    </tr>
+    </tr> 
   </tfoot>
 </table>
 @stop
