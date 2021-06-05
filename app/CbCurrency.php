@@ -10,7 +10,7 @@ class CbCurrency extends Model
   protected $table='cb_currency';
  
   /**
-    Por defecto Eloquent  asume que existe una clave primaria llamada id,
+    Po r defecto Eloquent  asume que existe una clave primaria llamada id,
     si este no es nuesto caso lo tenemos que indicar en la variable $primaryKey
   */
   protected $primaryKey = 'idcurrency';
